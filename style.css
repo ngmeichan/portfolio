@@ -3,6 +3,7 @@ h1 { color: red; }
 h2 {font-family: 'Varela Round', sans-serif; color:blue;}
 
 
-table, th, td {
+.t2 {
   border: 1px solid;
 }	
+
